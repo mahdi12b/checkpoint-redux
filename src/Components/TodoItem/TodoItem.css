@@ -1,0 +1,22 @@
+.TodoItem{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.done{
+    text-decoration: green underline;
+    margin:2px
+  
+    
+   
+}
+
+.undone{
+    text-decoration: red line-through;
+    margin:2px
+    
+  
+   
+}
